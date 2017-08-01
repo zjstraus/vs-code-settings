@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.eol": "\n",
+    "window.zoomLevel": -1,
+    "spellchecker.documentTypes": ["markdown", "latex", "plaintext", "yaml", "YAML"],
+    "editor.minimap.enabled": true,
+    "files.associations": {
+        "*.qplug": "lua"
+    },
+    "editor.minimap.renderCharacters": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "markdown.previewFrontMatter": "show"
+}
